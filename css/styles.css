@@ -140,3 +140,35 @@ header {
   line-height: 24px;
   width: 284px;
 }
+
+.victory-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.victory-bgr {
+  width: 1170px;
+  background: linear-gradient(270deg, #c1e8ff 0%, #ffffff 100%);
+  padding: 72px 0;
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.victory-title {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 100px;
+  color: #1b1d1f;
+  margin: 16px 0;
+}
+
+.victory-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1b1d1f;
+  width: 875px;
+  text-align: center;
+}
