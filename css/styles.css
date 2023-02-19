@@ -113,4 +113,30 @@ header {
   line-height: 24px;
   text-align: center;
   color: #1b1d1f;
+  width: 875px;
+}
+
+.gus-facts-container {
+  width: 1170px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.gus-facts-item {
+  width: 33%;
+}
+
+.gus-facts-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  color: #1b1d1f;
+  margin: 12px 0 32px 0;
+}
+
+.gus-facts-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  width: 284px;
 }
